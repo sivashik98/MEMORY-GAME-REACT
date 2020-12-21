@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How run the app
+
+To run the game just clone the project and run index.html file from dist directory and enjoy the game.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -23,7 +27,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-To run the game just clone the project and run index.html file from dist directory and enjoy the game.
